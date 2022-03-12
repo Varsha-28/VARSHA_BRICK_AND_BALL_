@@ -1,0 +1,167 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: C:/Users/VARSHA UPADYAYA/Downloads/varsha_ball_brick_zoho.py ===
+Enter size of the NxN matrix : 7
+Enter the brick's position and the brick type :2 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 3 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 4 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 3 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 4 1
+Do you want to continue(Y or N)?N
+Enter ball Count :3
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  1  1  1  0  W  
+W  0  1  1  1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :ST
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  1  1  1  0  W  
+W  0  1  0  1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :LD
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  1  1  1  0  W  
+W  0  0  0  1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  o  G  G  G  W  
+Ball count : 2
+Enter the direction in which the ball need to traverse :
+=== RESTART: C:/Users/VARSHA UPADYAYA/Downloads/varsha_ball_brick_zoho.py ===
+Enter size of the NxN matrix : 7
+Enter the brick's position and the brick type :2 3 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 4 3
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 3 2
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 4 1
+Do you want to continue(Y or N)?N
+Enter ball Count :3
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  0  1  3  0  W  
+W  0  1  2  1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :ST
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  0  1  3  0  W  
+W  0  1  1  1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :
+=== RESTART: C:/Users/VARSHA UPADYAYA/Downloads/varsha_ball_brick_zoho.py ===
+Enter size of the NxN matrix : 7
+Enter the brick's position and the brick type :1 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :1 3 DE
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :1 4 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 3 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 4 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 3 DS
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 4 1
+Do you want to continue(Y or N)?N
+Enter ball Count :3
+W  W  W  W  W  W  W  
+W  0  1  DE 1  0  W  
+W  0  1  1  1  0  W  
+W  0  1  DS 1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :ST
+W  W  W  W  W  W  W  
+W  0  1  DE 1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :ST
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+You Win HURRAY..!!
+>>> 
+=== RESTART: C:/Users/VARSHA UPADYAYA/Downloads/varsha_ball_brick_zoho.py ===
+Enter size of the NxN matrix : 7
+Enter the brick's position and the brick type :2 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 3 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :2 4 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 2 1
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 3 B
+Do you want to continue(Y or N)?Y
+Enter the brick's position and the brick type :3 4 1
+Do you want to continue(Y or N)?N
+Enter ball Count :3
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  1  1  1  0  W  
+W  0  1  B  1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  G  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :ST
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  1  1  1  0  W  
+W  0  1  0  1  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  o  _  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :RD
+W  W  W  W  W  W  W  
+W  0  0  0  0  0  W  
+W  0  1  1  1  0  W  
+W  0  1  0  0  0  W  
+W  0  0  0  0  0  W  
+W  0  0  0  0  0  W  
+W  G  G  _  o  G  W  
+Ball count : 3
+Enter the direction in which the ball need to traverse :
